@@ -3,13 +3,13 @@
 
 
 [//]: # (Image References)
-[image1]: ./test_images_output/origin.jpg "origin"
-[image2]: ./test_images_output/gray.jpg "gray"
-[image3]: ./test_images_output/blur.jpg "blur"
-[image4]: ./test_images_output/edges.jpg "edges"
-[image5]: ./test_images_output/roi.jpg "roi"
-[image6]: ./test_images_output/lines.jpg "lines"
-[image7]: ./test_images_output/result.jpg "result"
+[image1]: ./test_output/origin.jpg "origin"
+[image2]: ./test_output/gray.jpg "gray"
+[image3]: ./test_output/blur.jpg "blur"
+[image4]: ./test_output/edges.jpg "edges"
+[image5]: ./test_output/roi.jpg "roi"
+[image6]: ./test_output/lines.jpg "lines"
+[image7]: ./test_output/result.jpg "result"
 
 
 Overview
